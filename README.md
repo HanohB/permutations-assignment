@@ -4,4 +4,4 @@ docker-compose up
 ## To Copy the created files
 docker cp {dockerImageId}:/usr/src/app/ ./Files
 
-##Open Permutations.xlsx with today's date in it's name.
+##  Open Permutations+<Today's date>.xlsx 
